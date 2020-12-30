@@ -1,0 +1,12 @@
+*
+
+!*/
+!.gitignore
+!*.c
+!*.h
+!*.ioc
+!*.md
+!*.s
+!*.ld
+!CMakeLists.txt
+CMakeFiles
